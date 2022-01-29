@@ -1,4 +1,4 @@
-# waddingCard
+# wedding Card
 
 ## 개요
 
