@@ -2,9 +2,15 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [36, 126]
+    "coordinates": [
+      -122.65335738658904,
+      45.512083676585156
+    ]
   },
   "properties": {
-    "name": "Dinagat Islands"
+    "name": "Hungry Heart Cupcakes",
+    "address": "1212 SE Hawthorne Boulevard",
+    "website": "https://www.hungryheartcupcakes.com",
+    "gluten free": "no"
   }
 }
